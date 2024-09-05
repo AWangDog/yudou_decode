@@ -2,7 +2,7 @@
 // @name         玉豆分享自动解析
 // @namespace    https://github.com/AWangDog/yudou_decode/
 // @license      GPLv3
-// @version      2024-09-05
+// @version      1.0
 // @description  暴力破解玉豆分享密码
 // @author       AWang_Dog
 // @match        https://www.yudou66.com/*.html
